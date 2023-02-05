@@ -1,4 +1,4 @@
-# JavaScript & LeetCode: The Interview Bootcamp (Classic Edition)
+# JS & LC - Questions
 
 ## Prerequisites
 
