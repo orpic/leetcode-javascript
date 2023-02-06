@@ -11,3 +11,6 @@ test("[2, 5, 10, 1], 27 should return 4 for 10 + 10 + 5 + 2", () => {
 test("[2], 3 should return -1 since change is not possible", () => {
   expect(coinChange([2], 3)).toEqual(-1);
 });
+test("[186,419,83,408], 6249 should return 20 ", () => {
+  expect(coinChange([186, 419, 83, 408], 6249)).toEqual(20);
+});
