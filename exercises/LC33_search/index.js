@@ -54,4 +54,4 @@ function search(nums, target) {
   return Math.max(left, right);
 }
 
-module.exports = search;
+export default search;
